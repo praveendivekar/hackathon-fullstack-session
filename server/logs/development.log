@@ -1,0 +1,200 @@
+
+info [Mon Nov 27 2017 23:05:02 GMT+0530 (IST)]  Server listening on PORT: 3000
+error [Mon Nov 27 2017 23:05:02 GMT+0530 (IST)]  Failed to connect to MongoDB: MongoError: failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+
+info [Mon Nov 27 2017 23:05:20 GMT+0530 (IST)]  Server listening on PORT: 3000
+error [Mon Nov 27 2017 23:05:21 GMT+0530 (IST)]  Failed to connect to MongoDB: MongoError: failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+
+info [Mon Nov 27 2017 23:08:22 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:08:23 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:10:00 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:10:01 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:10:52 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:10:53 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:10:59 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:11:00 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:11:07 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:11:08 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:13:47 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:13:48 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:14:58 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:14:59 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:15:48 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:15:49 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:16:31 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:16:32 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:16:43 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:16:44 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:16:51 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:16:52 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:17:06 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:17:07 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:17:09 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:17:10 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:21:39 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:21:40 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:21:42 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:21:43 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:22:19 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:22:20 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:23:11 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:23:12 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:26:23 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:26:24 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:26:26 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:26:27 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:27:43 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:27:44 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:27:54 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:27:55 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:29:10 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:29:11 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:30:49 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:30:50 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:30:58 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:30:59 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:32:07 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:32:08 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:32:34 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:32:35 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:32:43 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:32:44 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:32:53 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:32:54 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Mon Nov 27 2017 23:34:14 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Mon Nov 27 2017 23:34:15 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Tue Nov 28 2017 07:41:04 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 07:41:06 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Tue Nov 28 2017 07:41:52 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 07:41:53 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 07:41:57 GMT+0530 (IST)]  Something went wrong Error: Something
+
+info [Tue Nov 28 2017 07:42:25 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 07:42:27 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 07:42:27 GMT+0530 (IST)]  Something went wrong Error: Something
+
+info [Tue Nov 28 2017 07:43:35 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 07:43:36 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 07:43:39 GMT+0530 (IST)]  Something went wrong Error: Something
+error [Tue Nov 28 2017 07:43:39 GMT+0530 (IST)]  Error : Error: Something
+error [Tue Nov 28 2017 07:44:22 GMT+0530 (IST)]  Something went wrong Error: Something
+error [Tue Nov 28 2017 07:44:22 GMT+0530 (IST)]  Error : Error: Something
+
+info [Tue Nov 28 2017 07:44:32 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 07:44:33 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 07:44:36 GMT+0530 (IST)]  Something went wrong Error: Something
+error [Tue Nov 28 2017 07:44:36 GMT+0530 (IST)]  Error : Error: Something
+
+info [Tue Nov 28 2017 07:45:19 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 07:45:20 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 07:45:21 GMT+0530 (IST)]  Something went wrong Error: Something
+error [Tue Nov 28 2017 07:45:21 GMT+0530 (IST)]  Error : Error: Something
+
+info [Tue Nov 28 2017 07:45:35 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 07:45:36 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Tue Nov 28 2017 07:45:39 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 07:45:40 GMT+0530 (IST)]  Connected to Mongo DB
+info [Tue Nov 28 2017 08:34:44 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 10:27:24 GMT+0530 (IST)]  Failed to connect to MongoDB: DisconnectedError: Ran out of retries trying to reconnect to "ds117156.mlab.com:17156". Try setting `server.reconnectTries` and `server.reconnectInterval` to something higher.
+
+info [Tue Nov 28 2017 10:40:10 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 10:40:11 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 10:43:04 GMT+0530 (IST)]  Something went wrong ValidationError: timing: Path `timing` is required., description: Path `description` is required., toDate: Path `toDate` is required., fromDate: Path `fromDate` is required., title: Path `title` is required.
+error [Tue Nov 28 2017 10:43:04 GMT+0530 (IST)]  Error : Error: ValidationError: timing: Path `timing` is required., description: Path `description` is required., toDate: Path `toDate` is required., fromDate: Path `fromDate` is required., title: Path `title` is required.
+
+info [Tue Nov 28 2017 10:43:26 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 10:43:27 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 10:43:42 GMT+0530 (IST)]  Something went wrong ValidationError: timing: Path `timing` is required., description: Path `description` is required., toDate: Path `toDate` is required., fromDate: Path `fromDate` is required., title: Path `title` is required.
+error [Tue Nov 28 2017 10:43:42 GMT+0530 (IST)]  Error : Error: ValidationError: timing: Path `timing` is required., description: Path `description` is required., toDate: Path `toDate` is required., fromDate: Path `fromDate` is required., title: Path `title` is required.
+
+info [Tue Nov 28 2017 10:44:08 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 10:44:09 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 10:44:10 GMT+0530 (IST)]  Something went wrong ValidationError: timing: Path `timing` is required., description: Path `description` is required., toDate: Path `toDate` is required., fromDate: Path `fromDate` is required., title: Path `title` is required.
+error [Tue Nov 28 2017 10:44:10 GMT+0530 (IST)]  Error : Error: ValidationError: timing: Path `timing` is required., description: Path `description` is required., toDate: Path `toDate` is required., fromDate: Path `fromDate` is required., title: Path `title` is required.
+
+info [Tue Nov 28 2017 10:45:24 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 10:45:26 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 10:45:29 GMT+0530 (IST)]  Something went wrong ValidationError: toDate: Cast to Date failed for value "30/11/2017" at path "toDate", fromDate: Cast to Date failed for value "28/11/2017" at path "fromDate"
+error [Tue Nov 28 2017 10:45:29 GMT+0530 (IST)]  Error : Error: ValidationError: toDate: Cast to Date failed for value "30/11/2017" at path "toDate", fromDate: Cast to Date failed for value "28/11/2017" at path "fromDate"
+
+info [Tue Nov 28 2017 10:45:52 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 10:45:53 GMT+0530 (IST)]  Connected to Mongo DB
+info [Tue Nov 28 2017 10:45:56 GMT+0530 (IST)]  Session saved
+
+info [Tue Nov 28 2017 10:50:24 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 10:50:25 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Tue Nov 28 2017 10:50:30 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 10:50:31 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Tue Nov 28 2017 10:52:35 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 10:52:36 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Tue Nov 28 2017 10:52:41 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 10:52:41 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Tue Nov 28 2017 10:59:05 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 10:59:06 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 10:59:57 GMT+0530 (IST)]  Something went wrong TypeError: Converting circular structure to JSON
+error [Tue Nov 28 2017 10:59:57 GMT+0530 (IST)]  Error : TypeError: Converting circular structure to JSON
+
+info [Tue Nov 28 2017 11:01:34 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 11:01:35 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 11:01:38 GMT+0530 (IST)]  Something went wrong TypeError: Converting circular structure to JSON
+error [Tue Nov 28 2017 11:01:38 GMT+0530 (IST)]  Error : TypeError: Converting circular structure to JSON
+
+info [Tue Nov 28 2017 11:02:06 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 11:02:07 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 11:02:09 GMT+0530 (IST)]  Something went wrong TypeError: Converting circular structure to JSON
+error [Tue Nov 28 2017 11:02:09 GMT+0530 (IST)]  Error : TypeError: Converting circular structure to JSON
+
+info [Tue Nov 28 2017 11:02:34 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 11:02:35 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 11:02:37 GMT+0530 (IST)]  Something went wrong TypeError: Converting circular structure to JSON
+error [Tue Nov 28 2017 11:02:37 GMT+0530 (IST)]  Error : TypeError: Converting circular structure to JSON
+
+info [Tue Nov 28 2017 11:04:09 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 11:04:10 GMT+0530 (IST)]  Connected to Mongo DB
+error [Tue Nov 28 2017 11:04:16 GMT+0530 (IST)]  Something went wrong TypeError: Converting circular structure to JSON
+error [Tue Nov 28 2017 11:04:16 GMT+0530 (IST)]  Error : TypeError: Converting circular structure to JSON
+error [Tue Nov 28 2017 11:21:43 GMT+0530 (IST)]  Failed to connect to MongoDB: DisconnectedError: Ran out of retries trying to reconnect to "ds117156.mlab.com:17156". Try setting `server.reconnectTries` and `server.reconnectInterval` to something higher.
+
+info [Tue Nov 28 2017 11:23:40 GMT+0530 (IST)]  Server listening on PORT: 3000
+error [Tue Nov 28 2017 11:23:40 GMT+0530 (IST)]  Failed to connect to MongoDB: MongoError: failed to connect to server [ds117156.mlab.com:17156] on first connect [MongoError: getaddrinfo ENOTFOUND ds117156.mlab.com ds117156.mlab.com:17156]
+
+info [Tue Nov 28 2017 11:23:44 GMT+0530 (IST)]  Server listening on PORT: 3000
+error [Tue Nov 28 2017 11:23:44 GMT+0530 (IST)]  Failed to connect to MongoDB: MongoError: failed to connect to server [ds117156.mlab.com:17156] on first connect [MongoError: getaddrinfo ENOTFOUND ds117156.mlab.com ds117156.mlab.com:17156]
+
+info [Tue Nov 28 2017 11:24:02 GMT+0530 (IST)]  Server listening on PORT: 3000
+error [Tue Nov 28 2017 11:24:02 GMT+0530 (IST)]  Failed to connect to MongoDB: MongoError: failed to connect to server [ds117156.mlab.com:17156] on first connect [MongoError: getaddrinfo ENOTFOUND ds117156.mlab.com ds117156.mlab.com:17156]
