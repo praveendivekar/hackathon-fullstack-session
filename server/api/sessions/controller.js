@@ -60,8 +60,27 @@ export async function updateSession(req, res, next) {
   try {
     let { id } = req.params;
     let { title, description, fromDate, toDate, timing, img } = req.body;
-    let updated = Session.where({ _id: id }).update({ title });
-    res.json({ status: 200, success: true, updated });
+
+    let session = await Session.findById(id);
+
+    if (session) {
+      session.title = title || session.title;
+      session.description = description || session.description;
+      session.fromDate = fromDate || session.fromDate;
+      session.toDate = toDate || session.toDate;
+      session.timing = timing || session.timing;
+      session.img = img || session.img;
+
+      let updated = await session.save();
+
+      res.json({ status: 200, success: true, updated });
+    } else {
+      res.json({
+        status: 200,
+        success: false,
+        message: 'Couldnt find the session'
+      });
+    }
   } catch (err) {
     logger.error(`Something went wrong ${err}`);
     next(err);
