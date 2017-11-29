@@ -8,7 +8,7 @@ export function get(namespace, params, headers) {
 
   return new Promise((resolve, reject) => {
     let token = getSession();
-    let headers = token ? { Authorization: `Bearer ${token}` } : {};
+    let headers = token ? { authorization: `${token}` } : {};
 
     axios({
       method: 'GET',
@@ -17,7 +17,11 @@ export function get(namespace, params, headers) {
       headers
     })
       .then(response => {
-        resolve(response);
+        if (response.data.success) {
+          resolve(response);
+        } else {
+          reject('unauthorized');
+        }
       })
       .catch(err => {
         reject(err);

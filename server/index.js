@@ -23,6 +23,7 @@ middleware(app);
 */
 function authMiddleWare() {
   return function(req, res, next) {
+    console.log(req.headers);
     if (req.headers['authorization']) {
       let token = req.headers['authorization'];
 
@@ -55,7 +56,7 @@ function authMiddleWare() {
 app.use('/', [LoginRoutes]);
 
 /* authorized route */
-app.use('/api', [SessionRoutes]);
+app.use('/api', authMiddleWare(), [SessionRoutes]);
 
 /*
 * Global error handling middleware, this is application level middleware.

@@ -26,9 +26,9 @@ export default class Lists extends Component {
   render() {
     return (
       <div className="lists">
-        {this.state.sessions.map(current => {
+        {this.state.sessions.map((current, index) => {
           return (
-            <div>
+            <div key={index}>
               <h1>{current.title}</h1>
               <p>{current.description}</p>
             </div>

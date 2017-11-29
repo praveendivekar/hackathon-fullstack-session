@@ -1,7 +1,12 @@
 import React, { Component } from 'react';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+
 import './App.css';
 
 import Lists from './components/lists';
+import Login from './components/login';
+
+import AuthenicateRoute from './hoc/authRoute';
 
 class App extends Component {
   render() {
@@ -13,7 +18,12 @@ class App extends Component {
           <p>The Authentication and Authorization using JWT</p>
         </header>
 
-        <Lists />
+        <BrowserRouter>
+          <Switch>
+            <Route exact path="/" component={AuthenicateRoute(Login)} />
+            <Route path="/lists" component={AuthenicateRoute(Lists)} />
+          </Switch>
+        </BrowserRouter>
       </div>
     );
   }
