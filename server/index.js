@@ -17,6 +17,10 @@ db.open();
 //middleware config
 middleware(app);
 
+/**
+* Authorization middleware function for authorizing the routes
+* @method authMiddleWare
+*/
 function authMiddleWare() {
   return function(req, res, next) {
     if (req.headers['authorization']) {
@@ -46,10 +50,18 @@ function authMiddleWare() {
     }
   };
 }
+
+/* unauthorized, usually login */
 app.use('/', [LoginRoutes]);
 
+/* authorized route */
 app.use('/api', authMiddleWare(), [SessionRoutes]);
 
+/*
+* Global error handling middleware, this is application level middleware.
+* The application errors are caught here, which is caught in the logger.
+* A reasonable or understandable error message is responded to the client
+*/
 app.use((err, req, res, next) => {
   logger.error(`Error : ${err}`);
   res.json({
