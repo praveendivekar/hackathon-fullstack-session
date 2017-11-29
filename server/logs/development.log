@@ -265,3 +265,73 @@ info [Tue Nov 28 2017 12:13:33 GMT+0530 (IST)]  Connected to Mongo DB
 info [Tue Nov 28 2017 12:13:50 GMT+0530 (IST)]  Connected to Mongo DB
 info [Tue Nov 28 2017 12:14:19 GMT+0530 (IST)]  Connected to Mongo DB
 info [Tue Nov 28 2017 12:14:31 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Tue Nov 28 2017 14:17:29 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Tue Nov 28 2017 14:17:29 GMT+0530 (IST)]  Connected to Mongo DB
+info [Tue Nov 28 2017 14:18:41 GMT+0530 (IST)]  Session saved
+info [Tue Nov 28 2017 14:19:45 GMT+0530 (IST)]  Session saved
+
+info [Wed Nov 29 2017 07:51:28 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 07:51:28 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 07:53:03 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 07:53:03 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 07:53:16 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 07:53:16 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 07:53:34 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 07:53:34 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 07:54:01 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 07:54:01 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 07:57:41 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 07:57:41 GMT+0530 (IST)]  Connected to Mongo DB
+error [Wed Nov 29 2017 07:58:11 GMT+0530 (IST)]  Something went wrong in ReferenceError: jwt is not defined
+error [Wed Nov 29 2017 07:58:11 GMT+0530 (IST)]  Error : ReferenceError: jwt is not defined
+
+info [Wed Nov 29 2017 07:58:36 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 07:58:36 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 08:05:07 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:05:07 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 08:07:33 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:07:33 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 08:08:56 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:08:56 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 08:09:22 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:09:22 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 08:11:07 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:11:07 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 08:11:31 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:11:31 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 08:11:49 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:11:49 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 08:12:34 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:12:35 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 08:13:57 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:13:57 GMT+0530 (IST)]  Connected to Mongo DB
+error [Wed Nov 29 2017 08:14:26 GMT+0530 (IST)]  Error : ReferenceError: jwt is not defined
+
+info [Wed Nov 29 2017 08:14:36 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:14:36 GMT+0530 (IST)]  Connected to Mongo DB
+error [Wed Nov 29 2017 08:14:37 GMT+0530 (IST)]  Error : JsonWebTokenError: invalid token
+
+info [Wed Nov 29 2017 08:16:29 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:16:29 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 08:17:19 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:17:19 GMT+0530 (IST)]  Connected to Mongo DB
+error [Wed Nov 29 2017 08:17:27 GMT+0530 (IST)]  Error : JsonWebTokenError: jwt malformed
+
+info [Wed Nov 29 2017 08:18:54 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 08:18:54 GMT+0530 (IST)]  Connected to Mongo DB

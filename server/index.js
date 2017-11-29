@@ -4,8 +4,11 @@ import middleware from './config/middleware';
 import logger from './utils/logger';
 import config from './config';
 import { SessionRoutes } from './api/sessions';
+import { LoginRoutes } from './api/login';
 
-const { PORT } = config;
+import JWT from 'jsonwebtoken';
+
+const { PORT, SECRET } = config;
 const app = express();
 
 //establishing connection to Mongo DB
@@ -14,7 +17,38 @@ db.open();
 //middleware config
 middleware(app);
 
-app.use('/api', [SessionRoutes]);
+function authMiddleWare() {
+  return function(req, res, next) {
+    if (req.headers['authorization']) {
+      let token = req.headers['authorization'];
+
+      try {
+        let verifed = JWT.verify(token, SECRET);
+
+        if (verifed.username === 'santRaju') {
+          next();
+        } else {
+          throw 'unauthorized';
+        }
+      } catch (err) {
+        res.json({
+          status: 403,
+          success: false,
+          message: 'unauthorized access'
+        });
+      }
+    } else {
+      res.json({
+        status: 403,
+        success: false,
+        message: 'unauthorized access'
+      });
+    }
+  };
+}
+app.use('/', [LoginRoutes]);
+
+app.use('/api', authMiddleWare(), [SessionRoutes]);
 
 app.use((err, req, res, next) => {
   logger.error(`Error : ${err}`);

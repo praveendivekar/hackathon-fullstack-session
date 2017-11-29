@@ -1,6 +1,11 @@
 import Session from './model';
 import logger from '../../utils/logger';
 
+/**
+* Async function to creating a session
+* @method createSession
+* @param req, res, next
+*/
 export async function createSession(req, res, next) {
   try {
     let { title, fromDate, toDate, description, timing, img } = req.body;
@@ -23,6 +28,11 @@ export async function createSession(req, res, next) {
   }
 }
 
+/**
+* Async function for getting a session based on the id
+* @method getSession
+* @param req, res, next
+*/
 export async function getSession(req, res, next) {
   try {
     let { id } = req.params;
@@ -34,6 +44,11 @@ export async function getSession(req, res, next) {
   }
 }
 
+/**
+* Async function for getting list of sessions
+* @method getSessions
+* @param req, res, next
+*/
 export async function getSessions(req, res, next) {
   try {
     let sessions = await Session.find({});
@@ -44,6 +59,11 @@ export async function getSessions(req, res, next) {
   }
 }
 
+/**
+* Async function for deleting a session based on the id
+* @method deleteSession
+* @param req, res, next
+*/
 export async function deleteSession(req, res, next) {
   try {
     let { id } = req.params;
@@ -56,6 +76,11 @@ export async function deleteSession(req, res, next) {
   }
 }
 
+/**
+* Async function for upating a session based on the id
+* @method updateSession
+* @param req, res, next
+*/
 export async function updateSession(req, res, next) {
   try {
     let { id } = req.params;
