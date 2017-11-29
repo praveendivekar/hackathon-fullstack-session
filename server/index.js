@@ -55,7 +55,7 @@ function authMiddleWare() {
 app.use('/', [LoginRoutes]);
 
 /* authorized route */
-app.use('/api', authMiddleWare(), [SessionRoutes]);
+app.use('/api', [SessionRoutes]);
 
 /*
 * Global error handling middleware, this is application level middleware.
