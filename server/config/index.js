@@ -1,3 +1,9 @@
+/*
+* Application configuration
+* Configuring PORT, DB_URL - MongoDB URL and log location
+* SECRET key for generating JWT tokens for authorization
+*/
+
 const ENV = process.env.NODE_ENV || 'development';
 const PORT = process.env.PORT || 3000;
 const { DB_USER, DB_PASS } = process.env;
@@ -14,12 +20,13 @@ switch (ENV) {
     DB_URL = '';
     break;
   default:
-    DB_URL = `mongodb://${DB_USER}:${DB_PASS}@ds117156.mlab.com:17156/sessions`;
+    DB_URL = `mongodb://0.0.0.0:27017/sessions`;
     break;
 }
 
 export default {
   PORT,
   DB_URL,
-  LOGS: LOG_LOCATION
+  LOGS: LOG_LOCATION,
+  SECRET: 'secret'
 };
