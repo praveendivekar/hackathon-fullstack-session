@@ -1,6 +1,6 @@
 # hackathon-fullstack-session
 
-Hope everyone loved the sessions we had conducted on the fullstack using JS. Really hoping to see everyone creating an application with this tech stack and prepare for the Mega Hackaton coming up shortly.
+Hope everyone liked the sessions we had conducted on the fullstack using JS. Really hoping to see everyone creating an application with this tech stack and prepare for the Mega Hackaton coming up shortly.
 
 This application was mainly built for this knowledge sharing sessions. Rather than teaching about each technology we considered as the techstack, we focused on the conceptual topics which would help you in thinking or rather your perspective on Fullstack in JS.
 
@@ -22,3 +22,27 @@ NPM module can be found here [ci-server](https://www.npmjs.com/package/ci-server
 
 
 ## Resources
+
+As you can see from the project, we had used ES6 on the server. This is possible with Node version 8 onwards, but for the sake of compatiblity of running this project independent of Node versions. We added our configurations to use ES6 concepts regardless of the Node version which is currently running in the host system.
+
+We are dependent on babel-core npm package, to allow us code on ES6 based environment. 
+
+The reason why we used ES6, because it lets us write minimial code and more importantly understandable code. The main motivate of ES6 was mainly for this purpose achieve more with less amount of code and make your code more understandable for peers.
+
+One beautiful and awesome concept in ES6 and pre ES7, which completely brought us to embrace and love ES6 was **async-await**. Personally working with Async Javascript was a pain because of the callbacks and Promises. Promises are really a awesome concepts but they did not solve the problem of nesting async code, which made the code not so readable (especially for Junior developers).
+
+You will see this a lot in our project. If you want to learn more about async-await, checkout the below articles.
+
+[ASYNC/AWAIT WILL MAKE YOUR CODE SIMPLER](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
+[6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+
+Resource on building nodejs applications
+
+[How I build Node.js Applications](https://blog.ragingflame.co.za/2015/4/1/how-i-build-nodejs-applications)
+
+
+A beautiful course on frontend-master for Designing API' on nodeJS, please checkout [here](https://frontendmasters.com/courses/api-design-nodejs/)
+
+Slides are our sessions can be found here.
+
+1. [Fullstack Journey](http://slides.com/santhoshnagaraj/deck#/)
