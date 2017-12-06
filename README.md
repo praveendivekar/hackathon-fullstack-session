@@ -37,13 +37,13 @@ You will see this a lot in our project. If you want to learn more about async-aw
 
 2. [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 
-Resource on building nodejs applications
+**Resource on building nodejs applications**
 
 [How I build Node.js Applications](https://blog.ragingflame.co.za/2015/4/1/how-i-build-nodejs-applications)
 
 
 A beautiful course on frontend-master for Designing API' on nodeJS, please checkout [here](https://frontendmasters.com/courses/api-design-nodejs/)
 
-Slides are our sessions can be found here.
+**Slides are our sessions can be found here.**
 
 1. [Fullstack Journey](http://slides.com/santhoshnagaraj/deck#/)
