@@ -1,4 +1,4 @@
-# hackathon-fullstack-session
+# Mega Hackathon - Fullstack session
 
 Hope everyone liked the sessions we had conducted on the fullstack using JS. Really hoping to see everyone creating an application with this tech stack and prepare for the Mega Hackaton coming up shortly.
 
