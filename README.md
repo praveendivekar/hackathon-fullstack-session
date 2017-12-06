@@ -33,8 +33,9 @@ One beautiful and awesome concept in ES6 and pre ES7, which completely brought u
 
 You will see this a lot in our project. If you want to learn more about async-await, checkout the below articles.
 
-[ASYNC/AWAIT WILL MAKE YOUR CODE SIMPLER](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
-[6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+1. [ASYNC/AWAIT WILL MAKE YOUR CODE SIMPLER](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
+
+2. [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 
 Resource on building nodejs applications
 
