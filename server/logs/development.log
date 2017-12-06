@@ -335,3 +335,43 @@ error [Wed Nov 29 2017 08:17:27 GMT+0530 (IST)]  Error : JsonWebTokenError: jwt 
 
 info [Wed Nov 29 2017 08:18:54 GMT+0530 (IST)]  Server listening on PORT: 3000
 info [Wed Nov 29 2017 08:18:54 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 11:20:21 GMT+0530 (IST)]  Server listening on PORT: 3000
+error [Wed Nov 29 2017 11:20:21 GMT+0530 (IST)]  Failed to connect to MongoDB: MongoError: failed to connect to server [0.0.0.0:27017] on first connect [MongoError: connect ECONNREFUSED 0.0.0.0:27017]
+
+info [Wed Nov 29 2017 11:29:35 GMT+0530 (IST)]  Server listening on PORT: 3000
+error [Wed Nov 29 2017 11:29:35 GMT+0530 (IST)]  Failed to connect to MongoDB: MongoError: failed to connect to server [0.0.0.0:27017] on first connect [MongoError: connect ECONNREFUSED 0.0.0.0:27017]
+
+info [Wed Nov 29 2017 11:31:04 GMT+0530 (IST)]  Server listening on PORT: 3000
+error [Wed Nov 29 2017 11:31:34 GMT+0530 (IST)]  Failed to connect to MongoDB: MongoError: failed to connect to server [ds117156.mlab.com:17156] on first connect [MongoError: connection 0 to ds117156.mlab.com:17156 timed out]
+
+info [Wed Nov 29 2017 11:35:49 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 11:35:49 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 12:18:39 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 12:18:39 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 12:22:28 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 12:22:28 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 12:26:17 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 12:26:17 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 12:26:23 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 12:26:23 GMT+0530 (IST)]  Connected to Mongo DB
+info [Wed Nov 29 2017 12:29:21 GMT+0530 (IST)]  Session saved
+
+info [Wed Nov 29 2017 12:32:12 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 12:32:12 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 12:32:17 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 12:32:17 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 12:57:45 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 12:57:45 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 13:19:58 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 13:19:58 GMT+0530 (IST)]  Connected to Mongo DB
+
+info [Wed Nov 29 2017 13:44:04 GMT+0530 (IST)]  Server listening on PORT: 3000
+info [Wed Nov 29 2017 13:44:04 GMT+0530 (IST)]  Connected to Mongo DB
