@@ -47,3 +47,13 @@ A beautiful course on frontend-master for Designing API' on nodeJS, please check
 **Slides are our sessions can be found here.**
 
 1. [Fullstack Journey](http://slides.com/santhoshnagaraj/deck#/)
+
+# GraphQL
+
+To continue with the session and making it more interesting we introduced GraphQL session. A small introduction about GraphQL.
+
+It was built by facebook, in order to minimize the bandwidth latency when requesting for resources from backend.
+
+To learn more about GraphQL, we recommend you to check the below tutorial rather than jumping to documentation, which might be confusing for you.
+
+[How to GraphQL fullstack tutorial](https://www.howtographql.com/)
